@@ -10,7 +10,7 @@
 
 
   <div align="center">
-  <img src="https://spogit.vercel.app/api?theme=dark&rainbow=true&scan=true" alt="Widget with the current Spotify song"  />
+  <img src="https://spogit.vercel.app/api?theme=dark&thunder=true&scan=true" alt="Widget with the current Spotify song"  />
 </div>
 
 
