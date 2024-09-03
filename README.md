@@ -38,6 +38,8 @@
 
 **star✨ my repo if you like this bot🤖**
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=𝗣𝗟𝗘𝗔𝗦𝗘+𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢+😢)](https://git.io/typing-svg)
+
 
    **𝟐. 𝐒𝐄𝐂𝐎𝐍𝐃 𝐒𝐓𝐄𝐏**
 
